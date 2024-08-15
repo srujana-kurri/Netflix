@@ -1,1 +1,1 @@
-# Video Streaming Appn
+# Video Streaming Platform
